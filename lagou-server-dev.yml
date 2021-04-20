@@ -1,2 +1,7 @@
 lagou:
   message: hello world
+mail:
+  default-encoding: utf-8
+  host: smtp.qq.com
+  username: 511162852@qq.com
+  password: cecxghgyupywbhef
