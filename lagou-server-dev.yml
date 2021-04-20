@@ -5,3 +5,7 @@ mail:
   host: smtp.qq.com
   username: 511162852@qq.com
   password: cecxghgyupywbhef
+gateway:
+  request:
+    limit: 5
+    time: 10000
