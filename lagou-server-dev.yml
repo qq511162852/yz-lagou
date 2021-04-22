@@ -12,4 +12,4 @@ gateway:
 mysql:
   url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
   username: root
-  password: 1314WOaiNI
+  password: 123456
