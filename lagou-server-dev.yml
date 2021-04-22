@@ -10,6 +10,6 @@ gateway:
     limit: 5
     time: 30000 # 30s 不能超过5次
 mysql:
-  url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
+  url: jdbc:mysql://123.207.31.211:3306/lagou?useUnicode=true&characterEncoding=utf8
   username: root
-  password: 123456
+  password: 1314WOaiNI
