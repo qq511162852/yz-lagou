@@ -9,3 +9,7 @@ gateway:
   request:
     limit: 5
     time: 10000
+mysql:
+  url: jdbc:mysql://123.207.31.211:3306/lagou?useUnicode=true&characterEncoding=utf8
+  username: root
+  password: 1314WOaiNI
